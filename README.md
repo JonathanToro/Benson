@@ -5,4 +5,6 @@ Description: WomenTechWomenYes (WTWY) has an annual gala at the beginning of the
 
 Presentation slides and code are included in this repo.
 
-Please refer to my blog for details.
+Please refer to [my blog][1] for details.
+
+[1]: https://jonathantoro.github.io/MTA-Analysis/
